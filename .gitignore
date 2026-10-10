@@ -1,0 +1,9 @@
+*.log
+*.img
+*.bin
+*.zip
+*.apk
+*.apks
+*.pem
+*.key
+.DS_Store
