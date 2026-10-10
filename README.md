@@ -75,4 +75,4 @@ The goal is to keep the SH-R80-specific work small, reproducible, and upstreamab
 
 ## Status
 
-**Physical-device success confirmed for the exact target above.** Additional repeated cold-boot validation is still desirable before calling the profile broadly stable across multiple SH-R80 units.
+**VERIFIED on physical hardware for the exact SH-R80 target above.** The profile completed GhostLock direct-mode escalation, seccomp bypass, and official KernelSU late-load on the tested device. This does not imply compatibility with a different kernel release or a future OTA.
