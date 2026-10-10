@@ -28,9 +28,9 @@ This profile has completed the full chain on a physical **Sharp AQUOS R8 SH-R80*
 - no patched or flashed boot image required
 
 <p align="center">
-  <img src="docs/images/ghostlock-supported.jpg" alt="GhostLock reporting the SH-R80 profile as supported" width="42%">
+  <img src="docs/images/Screenshot_20261010-122701.jpg" alt="GhostLock reporting the SH-R80 profile as supported" width="42%">
   &nbsp;&nbsp;
-  <img src="docs/images/kernelsu-working.jpg" alt="KernelSU working in jailbreak mode on the SH-R80" width="42%">
+  <img src="docs/images/Screenshot_20261010-122653.jpg" alt="KernelSU working in jailbreak mode on the SH-R80" width="42%">
 </p>
 
 <p align="center"><sub>Left: GhostLock recognizes the exact SH-R80 profile. Right: KernelSU reports a working LKM jailbreak session on the same kernel.</sub></p>
